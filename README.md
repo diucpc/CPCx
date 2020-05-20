@@ -8,12 +8,15 @@ CPCx is a introductory program of computer programming under the renowned club o
 
 Session 1.0 is being about to start on May 27, 2020 13:00.
 
-To join, please apply via [this form]().
+To join, please apply via [this form](https://forms.gle/yowrWuU34pf5N2Lg9).
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeZfELd5em1if7czLkr2-ldGwLLqzlHELbdqo68PTlR-N6EOA/viewform?embedded=true" width="640" height="896" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 After submitting the form successfully, you will get an email by May 27, 2020 12:00 with the link and proper instruction.
 
 ## Overview
 
-Every version of session will be 9 weeks long. Every week, there will be one class that will be 2 hours long with a 15 minutes break. So, the each class will follow this patter -
+Every version of session will be 9 weeks long. Every week, there will be one class that will be 2 hours long with a 15 minutes break. So, each class will follow this pattern -
 
 - 25 minutes talk
 - 5 minutes Q&A
