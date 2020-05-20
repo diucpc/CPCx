@@ -10,7 +10,9 @@ Session 1.0 is being about to start on May 27, 2020 13:00.
 
 To join, please apply via [this form](https://forms.gle/yowrWuU34pf5N2Lg9).
 
+<div>
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeZfELd5em1if7czLkr2-ldGwLLqzlHELbdqo68PTlR-N6EOA/viewform?embedded=true" width="640" height="896" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</div>
 
 After submitting the form successfully, you will get an email by May 27, 2020 12:00 with the link and proper instruction.
 
